@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<all>
+	<song id="0">
+		<titre>I See Fire</titre>
+		<artiste>Ed Sheeran</artiste>
+		<path>audio/i-see-fire.mp3</path>
+	</song>
+	<song id="1">
+		<titre>Stay With Me</titre>
+		<artiste>Sam Smith</artiste>
+		<path>audio/03 - Stay With Me.mp3</path>
+	</song>
+	<song id="2">
+		<titre>La la la</titre>
+		<artiste>Sam Smith</artiste>
+		<path>audio/13 - La La La.mp3</path>
+	</song>
+	<song id="3">
+		<titre>Money On My Mind</titre>
+		<artiste>Sam Smith</artiste>
+		<duree>3:13</duree>
+		<path>audio/01 - Money On My Mind.mp3</path>
+	</song>
+	<song id="4">
+		<titre>Latch</titre>
+		<artiste>Sam Smith</artiste>
+		<path>audio/12 - Latch (Acoustic).mp3</path>
+	</song>
+	<song id="5">
+		<titre>Afire Love</titre>
+		<artiste>Ed Sheeran</artiste>
+		<path>audio/12 Afire Love.mp3</path>
+	</song>
+	<song id="6">
+		<titre>Tenerife Sea</titre>
+		<artiste>Ed Sheeran</artiste>
+		<path>audio/08 Tenerife Sea.mp3</path>
+	</song>
+	<song id="7">
+		<titre>Thinking Out Loud</titre>
+		<artiste>Ed Sheeran</artiste>
+		<path>audio/11 Thinking Out Loud.mp3</path>
+	</song>
+</all>

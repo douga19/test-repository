@@ -1,0 +1,15 @@
+body { font-family: Ubuntu; margin: 0 auto; text-align: center;}
+h1 { padding: .2em; margin: 0; font-family: Nilland; font-size: 25px; font-weight: bolder;}
+
+#content-wrapper { text-align: center; margin: 0 auto; width:400px;}
+#banner { width: 400px; height: 200px; background: url("../img/banner.png");}
+#all { width: 400px; margin-right: 1em; font-family: Ubuntu; text-align: left;}
+#all ul { list-style: none;}
+#playlist { width: 400px; margin-top: 1em; font-family: Ubuntu; text-align: left;}
+#playlist ol { margin: 0; padding: 1em 0 1em 3em; }
+#player audio{ width: 400px; height: 30px; margin-top: 10px;}
+#nowPlaying { height: 100px; background-color: #002131; color: #fff;}
+
+.bouton { font-family: Ubuntu; width: 400px; margin-top: 10px;}
+.boutonNext { font-family: Ubuntu; display: inline-block; margin-top: 10px; width: 197px;}
+.overflow { height:100px; overflow: auto;}
